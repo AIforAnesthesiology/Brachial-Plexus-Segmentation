@@ -1,5 +1,4 @@
 # Trial Master File
-Please include your project files in the appropriate subfolders.
 
 ## A. Correspondence
 A1: Covering letter submitting party dd dd-mm-yy (see model letter)\
