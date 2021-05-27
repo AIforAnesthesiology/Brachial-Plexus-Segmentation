@@ -21,10 +21,10 @@ A possible solution might be the recent rise in artificial intelligence, especia
 ### Objective(s)
 In this study we will attempt to create a dataset of ultrasound images depicting the brachial plexus and use this dataset to train an U-net model in order to identify the region of interest in these images, which may potentially be used in clinical practise.
 
-**Primary Objective**\
+**Primary Objective**
 1. Construct a dataset of ultrasound images depicting the brachial plexus with manual image segmentation
 
-**Secondary Objective(s)**\
+**Secondary Objective(s)**
 1. Train an U-net deep learning model using the dataset and teach it to properly identify the brachial
 plexus
 
@@ -37,10 +37,10 @@ We will then feed the ultrasound images to the U-net model and set the manually 
 Healthy adults with intact brachial plexus without previous surgery or radiotherapy in the area.
 
 ### Main study parameters/endpoints
-**Dataset creation**\
+**Dataset creation**
 - 500 ultrasound images of the supraclavicular region with segmentation
 
-**U-net model creation**\
+**U-net model creation**
 - Intersection over union per image (see Eq 1.)
 - Model accuracy (see Eq 2.)
 - Ultrasound images with brachial plexus segmented by the machine learning model
