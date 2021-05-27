@@ -130,3 +130,7 @@ dmypy.json
 
 # OSX stuff
 .DS_Store
+
+# only store pdf files and not the MS office
+.doc
+.docx
