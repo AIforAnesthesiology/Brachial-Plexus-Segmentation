@@ -134,3 +134,4 @@ dmypy.json
 # only store pdf files and not the MS office
 *.doc
 *.docx
+*.pages
